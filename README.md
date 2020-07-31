@@ -5,11 +5,11 @@ Returns JSON object with the key "return_string", which contains a string contai
 <br />
 <br />
 #### Need to run this command first to build node_modules:
-```javascript
+```
 npm install
 ```
 #### Run the node server:
-```javascript
+```
 node index.js
 ```
 
